@@ -12,7 +12,7 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo.gif'
+    footer: '/assets/images/logo.gif'
 pagination:
   pagerSize: 108
