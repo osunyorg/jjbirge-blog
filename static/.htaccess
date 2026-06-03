@@ -30,10 +30,12 @@ ErrorDocument 404 /error.html
 
 
 RedirectMatch permanent "^/categories/projets\-et\-collections\-artistiques(/?)$" "/organisations/categories/projets-et-collections-artistiques/"
+RedirectMatch permanent "^/organisations/flying\-puppets(/?)$" "/organisations/flyingpuppet/"
 RedirectMatch permanent "^/sonia\-cruchon(/?)$" "/equipe/sonia-cruchon/"
 RedirectMatch permanent "^/odeia(/?)$" "/organisations/odeia/"
 RedirectMatch permanent "^/actualites/2026\-05\-31\-vitet\-en\-couve\-de\-vern\-et\-christin(/?)$" "/actualites/2026-06-02-vitet-en-couve-de-vern-et-christin/"
 RedirectMatch permanent "^/sacha\-gattino(/?)$" "/equipe/sacha-gattino/"
+RedirectMatch permanent "^/organisations/assez\-vus(/?)$" "/organisations/assez-vu/"
 RedirectMatch permanent "^/franpi(/?)$" "/equipe/franpi/"
 RedirectMatch permanent "^/marie\-laure\-buisson(/?)$" "/equipe/marie-laure-buisson/"
 RedirectMatch permanent "^/actualites/cinema\-dvd(/?)$" "/actualites/cinema-et-dvd/"
@@ -54,7 +56,7 @@ RedirectMatch permanent "^/les\-inediteurs(/?)$" "/organisations/les-inediteurs/
 RedirectMatch permanent "^/volumique(/?)$" "/organisations/volumique/"
 RedirectMatch permanent "^/categories/collectifs\-et\-groupes\-amis(/?)$" "/organisations/categories/collectifs-et-groupes-amis/"
 RedirectMatch permanent "^/organisations/les\-alumes\-du\-jazz(/?)$" "/organisations/les-allumes-du-jazz/"
-RedirectMatch permanent "^/flying\-puppets(/?)$" "/organisations/flying-puppets/"
+RedirectMatch permanent "^/flying\-puppets(/?)$" "/organisations/flyingpuppet/"
 RedirectMatch permanent "^/actualites/2026\-03\-10\-larbitraire\-en\-musique\-1(/?)$" "/actualites/2013-06-14-larbitraire-en-musique-1/"
 RedirectMatch permanent "^/elsa\-birge(/?)$" "/equipe/elsa-birge/"
 RedirectMatch permanent "^/categories/ami\-e\-s(/?)$" "/equipe/categories/ami-e-s/"
