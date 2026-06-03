@@ -42,7 +42,6 @@ RedirectMatch permanent "^/actualites/cinema\-dvd(/?)$" "/actualites/cinema-et-d
 RedirectMatch permanent "^/nabazmob(/?)$" "/organisations/nabazmob/"
 RedirectMatch permanent "^/actualites/2026\-03\-10\-la\-crise\-a\-bon\-dos\-1(/?)$" "/actualites/2013-06-13-la-crise-a-bon-dos-1/"
 RedirectMatch permanent "^/spatsonore(/?)$" "/organisations/spatsonore/"
-RedirectMatch permanent "^/sota\-salta(/?)$" "/organisations/sota-salta/"
 RedirectMatch permanent "^/antoine\-schmitt(/?)$" "/equipe/antoine-schmitt/"
 RedirectMatch permanent "^/machiavel(/?)$" "/organisations/machiavel/"
 RedirectMatch permanent "^/equipe\-editoriale(/?)$" "/equipe/equipe-editoriale/"
