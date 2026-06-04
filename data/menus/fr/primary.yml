@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
+- title: Tous les articles
+  slug: tous-les-articles
   target: "/articles/"
   kind: page
   new_tab: false
