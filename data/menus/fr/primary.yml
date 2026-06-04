@@ -3,7 +3,7 @@ title: Menu principal
 items:
 - title: Actualités
   slug: actualites
-  target: "/actualites/"
+  target: "/articles/"
   kind: page
   new_tab: false
   children: []
@@ -18,7 +18,7 @@ items:
   children:
   - title: Humeurs & opinions
     slug: humeurs-opinions
-    target: "/actualites/humeurs-et-opinions/"
+    target: "/articles/humeurs-et-opinions/"
     kind: category
     new_tab: false
     children: []
@@ -27,7 +27,7 @@ items:
     file: content/fr/posts_categories/humeurs-et-opinions/_index.html
   - title: Musique
     slug: musique
-    target: "/actualites/musique/"
+    target: "/articles/musique/"
     kind: category
     new_tab: false
     children: []
@@ -36,7 +36,7 @@ items:
     file: content/fr/posts_categories/musique/_index.html
   - title: Multimedia
     slug: multimedia
-    target: "/actualites/multimedia/"
+    target: "/articles/multimedia/"
     kind: category
     new_tab: false
     children: []
@@ -45,7 +45,7 @@ items:
     file: content/fr/posts_categories/multimedia/_index.html
   - title: Théâtre
     slug: theatre
-    target: "/actualites/theatre/"
+    target: "/articles/theatre/"
     kind: category
     new_tab: false
     children: []
@@ -54,7 +54,7 @@ items:
     file: content/fr/posts_categories/theatre/_index.html
   - title: Expositions
     slug: expositions
-    target: "/actualites/expositions/"
+    target: "/articles/expositions/"
     kind: category
     new_tab: false
     children: []
@@ -63,7 +63,7 @@ items:
     file: content/fr/posts_categories/expositions/_index.html
   - title: Pratique
     slug: pratique
-    target: "/actualites/pratique/"
+    target: "/articles/pratique/"
     kind: category
     new_tab: false
     children: []
@@ -72,7 +72,7 @@ items:
     file: content/fr/posts_categories/pratique/_index.html
   - title: Cuisine
     slug: cuisine
-    target: "/actualites/cuisine/"
+    target: "/articles/cuisine/"
     kind: category
     new_tab: false
     children: []
@@ -81,7 +81,7 @@ items:
     file: content/fr/posts_categories/cuisine/_index.html
   - title: Perso
     slug: perso
-    target: "/actualites/perso/"
+    target: "/articles/perso/"
     kind: category
     new_tab: false
     children: []
@@ -90,7 +90,7 @@ items:
     file: content/fr/posts_categories/perso/_index.html
   - title: Voyage
     slug: voyage
-    target: "/actualites/voyage/"
+    target: "/articles/voyage/"
     kind: category
     new_tab: false
     children: []
@@ -99,7 +99,7 @@ items:
     file: content/fr/posts_categories/voyage/_index.html
   - title: Roman-feuilleton
     slug: roman-feuilleton
-    target: "/actualites/roman-feuilleton/"
+    target: "/articles/roman-feuilleton/"
     kind: category
     new_tab: false
     children: []
@@ -108,7 +108,7 @@ items:
     file: content/fr/posts_categories/roman-feuilleton/_index.html
   - title: Révélations (coll.)
     slug: revelations-coll
-    target: "/actualites/revelations-collection/"
+    target: "/articles/revelations-collection/"
     kind: category
     new_tab: false
     children: []
@@ -117,7 +117,7 @@ items:
     file: content/fr/posts_categories/revelations-collection/_index.html
   - title: Allumés du Jazz
     slug: allumes-du-jazz
-    target: "/actualites/allumes-du-jazz/"
+    target: "/articles/allumes-du-jazz/"
     kind: category
     new_tab: false
     children: []
@@ -126,7 +126,7 @@ items:
     file: content/fr/posts_categories/allumes-du-jazz/_index.html
   - title: Le son sur l'image
     slug: le-son-sur-l-image
-    target: "/actualites/le-son-sur-limage/"
+    target: "/articles/le-son-sur-limage/"
     kind: category
     new_tab: false
     children: []
@@ -135,7 +135,7 @@ items:
     file: content/fr/posts_categories/le-son-sur-limage/_index.html
   - title: Perspectives du XXIIe siècle
     slug: perspectives-du-xxiie-siecle
-    target: "/actualites/perspectives-du-xxiie-siecle/"
+    target: "/articles/perspectives-du-xxiie-siecle/"
     kind: category
     new_tab: false
     children: []
@@ -144,7 +144,7 @@ items:
     file: content/fr/posts_categories/perspectives-du-xxiie-siecle/_index.html
   - title: Centenaire de JJB
     slug: centenaire-de-jjb
-    target: "/actualites/centenaire-de-jjb/"
+    target: "/articles/centenaire-de-jjb/"
     kind: category
     new_tab: false
     children: []
@@ -152,21 +152,21 @@ items:
     path: "/posts_categories/centenaire-de-jjb"
     file: content/fr/posts_categories/centenaire-de-jjb/_index.html
   descendants_targets:
-  - "/actualites/allumes-du-jazz/"
-  - "/actualites/centenaire-de-jjb/"
-  - "/actualites/cuisine/"
-  - "/actualites/expositions/"
-  - "/actualites/humeurs-et-opinions/"
-  - "/actualites/le-son-sur-limage/"
-  - "/actualites/multimedia/"
-  - "/actualites/musique/"
-  - "/actualites/perso/"
-  - "/actualites/perspectives-du-xxiie-siecle/"
-  - "/actualites/pratique/"
-  - "/actualites/revelations-collection/"
-  - "/actualites/roman-feuilleton/"
-  - "/actualites/theatre/"
-  - "/actualites/voyage/"
+  - "/articles/allumes-du-jazz/"
+  - "/articles/centenaire-de-jjb/"
+  - "/articles/cuisine/"
+  - "/articles/expositions/"
+  - "/articles/humeurs-et-opinions/"
+  - "/articles/le-son-sur-limage/"
+  - "/articles/multimedia/"
+  - "/articles/musique/"
+  - "/articles/perso/"
+  - "/articles/perspectives-du-xxiie-siecle/"
+  - "/articles/pratique/"
+  - "/articles/revelations-collection/"
+  - "/articles/roman-feuilleton/"
+  - "/articles/theatre/"
+  - "/articles/voyage/"
 - title: Miroir Médiapart
   slug: miroir-mediapart
   target: https://blogs.mediapart.fr/jean-jacques-birge/blog
