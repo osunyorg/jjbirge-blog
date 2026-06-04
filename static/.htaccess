@@ -33,7 +33,7 @@ RedirectMatch permanent "^/categories/projets\-et\-collections\-artistiques(/?)$
 RedirectMatch permanent "^/organisations/flying\-puppets(/?)$" "/organisations/flyingpuppet/"
 RedirectMatch permanent "^/sonia\-cruchon(/?)$" "/equipe/sonia-cruchon/"
 RedirectMatch permanent "^/odeia(/?)$" "/organisations/odeia/"
-RedirectMatch permanent "^/actualites/2026\-05\-31\-vitet\-en\-couve\-de\-vern\-et\-christin(/?)$" "/actualites/2026-06-02-vitet-en-couve-de-vern-et-christin/"
+RedirectMatch permanent "^/actualites/2026\-05\-31\-vitet\-en\-couve\-de\-vern\-et\-christin(/?)$" "/articles/2026-06-02-vitet-en-couve-de-vern-et-christin/"
 RedirectMatch permanent "^/actualites(/?)$" "/articles/"
 RedirectMatch permanent "^/sacha\-gattino(/?)$" "/equipe/sacha-gattino/"
 RedirectMatch permanent "^/organisations/assez\-vus(/?)$" "/organisations/assez-vu/"
