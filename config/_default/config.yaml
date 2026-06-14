@@ -16,10 +16,5 @@ params:
     footer: '/assets/images/logo.gif'
 pagination:
   pagerSize: 108
-organizations:
-  single:
-    backlinks: true
-people:
-  single:
-    backlinks: true
+
     
