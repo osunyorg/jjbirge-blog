@@ -28,7 +28,15 @@ main
     div.block
         width: fit-content
 
+.block-class-link-photo
+    margin-top: -1.5rem
+
 
 @include media-breakpoint-down(desktop)
     .home
         min-height: none
+
+    .page__home
+        .block-call_to_action
+            .block-content
+                padding: 3rem var(--grid-gutter) !important
