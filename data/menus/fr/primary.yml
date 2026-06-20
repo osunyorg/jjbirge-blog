@@ -176,7 +176,7 @@ items:
   descendants_targets: []
 - title: JJB / Disques GRRR
   slug: jjb-disques-grrr
-  target: https://drame.org/
+  target: https://www.drame.org/fr/
   kind: url
   new_tab: true
   children: []
