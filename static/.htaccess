@@ -4383,6 +4383,7 @@ RedirectMatch permanent "^/actualites/2013\-03\-20\-grrr\-anim(/?)$" "/articles/
 RedirectMatch permanent "^/actualites/2006\-08\-18\-gaga\-des\-chats\-1(/?)$" "/articles/2006-08-18-gaga-des-chats-1/"
 RedirectMatch permanent "^/actualites/2024\-09\-11\-spun\-le\-fauteuil\-toupie(/?)$" "/articles/2024-09-11-spun-le-fauteuil-toupie/"
 RedirectMatch permanent "^/actualites/2014\-10\-10\-bande\-de\-filles(/?)$" "/articles/2014-10-10-bande-de-filles/"
+RedirectMatch permanent "^/articles/2026\-09\-02\-je\-prends\-le\-temps\-de\-tout\-ecouter(/?)$" "/articles/2026-09-02-la-nasse/"
 RedirectMatch permanent "^/actualites/2008\-05\-06\-plume(/?)$" "/articles/2008-05-06-plume/"
 RedirectMatch permanent "^/actualites/2025\-10\-01\-une\-anche\-passe\-autographie\-bio\-de\-franois\-jeanneau(/?)$" "/articles/2025-10-01-une-anche-passe-autographie-bio-de-franois-jeanneau/"
 RedirectMatch permanent "^/actualites/2018\-11\-06\-enregistrer\-la\-musique\-pour\-quoi\-faire\-(/?)$" "/articles/2018-11-06-enregistrer-la-musique-pour-quoi-faire-/"
