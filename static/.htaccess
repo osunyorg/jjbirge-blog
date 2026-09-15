@@ -5719,7 +5719,6 @@ RedirectMatch permanent "^/actualites/2007\-05\-22\-livraison\-de\-planeurs(/?)$
 RedirectMatch permanent "^/actualites/2009\-11\-08\-les\-portes\-closes(/?)$" "/articles/2009-11-08-les-portes-closes/"
 RedirectMatch permanent "^/actualites/2020\-06\-03\-perspectives\-du\-xxiie\-sicle\-14\-communiqu\-de\-presse(/?)$" "/articles/2020-06-03-perspectives-du-xxiie-sicle-14-communiqu-de-presse/"
 RedirectMatch permanent "^/actualites/2018\-03\-27\-le\-violon\-aurait\-il\-toujours\-lme\-franaise\-(/?)$" "/articles/2018-03-27-le-violon-aurait-il-toujours-lme-franaise-/"
-RedirectMatch permanent "^/jonathan\-rosenbaum(/?)$" "/equipe/jonathan-rosenbaum/"
 RedirectMatch permanent "^/actualites/2008\-12\-25\-une\-utopie\-contre\-le\-profit\-le\-crime\-et\-le\-gchis\-(/?)$" "/articles/2008-12-25-une-utopie-contre-le-profit-le-crime-et-le-gchis-/"
 RedirectMatch permanent "^/actualites/2021\-05\-10\-la\-cabane\-perche\-de\-csaba\-palota\-et\-steve\-argelles(/?)$" "/articles/2021-05-10-la-cabane-perche-de-csaba-palota-et-steve-argelles/"
 RedirectMatch permanent "^/actualites/2008\-09\-01\-ce\-rpondeur\-restitue\-les\-messages(/?)$" "/articles/2008-09-01-ce-rpondeur-restitue-les-messages/"
