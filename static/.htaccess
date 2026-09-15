@@ -3116,7 +3116,6 @@ RedirectMatch permanent "^/actualites/2018\-11\-01\-entretien\-tlvis\-avec\-edga
 RedirectMatch permanent "^/actualites/2015\-11\-12\-birg\-contet\-hoang\-ce\-soir\-en\-concert\-au\-triton(/?)$" "/articles/2015-11-12-birg-contet-hoang-ce-soir-en-concert-au-triton/"
 RedirectMatch permanent "^/actualites/2024\-12\-25\-collage\-raisonn\-a(/?)$" "/articles/2024-12-25-collage-raisonn-a/"
 RedirectMatch permanent "^/actualites/2018\-07\-06\-il\-ny\-a\-plus\-de\-secret(/?)$" "/articles/2018-07-06-il-ny-a-plus-de-secret/"
-RedirectMatch permanent "^/jean\-jacques\-palix(/?)$" "/equipe/jean-jacques-palix/"
 RedirectMatch permanent "^/actualites/2010\-01\-15\-paralysie\-locale(/?)$" "/articles/2010-01-15-paralysie-locale/"
 RedirectMatch permanent "^/actualites/2011\-03\-11\-tienne\-brunet\-lance\-une\-bouteille\-la\-mer(/?)$" "/articles/2011-03-11-tienne-brunet-lance-une-bouteille-la-mer/"
 RedirectMatch permanent "^/actualites/2026\-05\-01\-non\-je\-ne\-suis\-pas\-journaliste\-1(/?)$" "/articles/2026-05-01-non-je-ne-suis-pas-journaliste-1/"
