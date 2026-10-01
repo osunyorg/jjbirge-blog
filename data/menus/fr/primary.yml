@@ -34,6 +34,15 @@ items:
     descendants_targets: []
     path: "/posts_categories/musique"
     file: content/fr/posts_categories/musique/_index.html
+  - title: Cinéma & DVD
+    slug: cinema-dvd
+    target: "/articles/cinema-et-dvd/"
+    kind: category
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/posts_categories/cinema-et-dvd"
+    file: content/fr/posts_categories/cinema-et-dvd/_index.html
   - title: Multimedia
     slug: multimedia
     target: "/articles/multimedia/"
@@ -154,6 +163,7 @@ items:
   descendants_targets:
   - "/articles/allumes-du-jazz/"
   - "/articles/centenaire-de-jjb/"
+  - "/articles/cinema-et-dvd/"
   - "/articles/cuisine/"
   - "/articles/expositions/"
   - "/articles/humeurs-et-opinions/"
