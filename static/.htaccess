@@ -366,6 +366,7 @@ RedirectMatch permanent "^/actualites/2009\-01\-08\-machiavel\-au\-pannonica\-19
 RedirectMatch permanent "^/actualites/2008\-06\-20\-the\-bank\-job\-cambriolage(/?)$" "/articles/2008-06-20-the-bank-job-cambriolage/"
 RedirectMatch permanent "^/actualites/2009\-07\-23\-guide\-cinmatographique\-du\-pervers(/?)$" "/articles/2009-07-23-guide-cinmatographique-du-pervers/"
 RedirectMatch permanent "^/actualites/2018\-10\-09\-quand\-cest\-cass\-cest\-cass(/?)$" "/articles/2018-10-09-quand-cest-cass-cest-cass/"
+RedirectMatch permanent "^/articles/2026\-10\-03\-lempire\-na\-jamais\-pris\-fin\-tome\-3\-de\-napoleon\-a\-macron(/?)$" "/articles/2026-10-07-lempire-na-jamais-pris-fin-tome-3-de-napoleon-a-macron/"
 RedirectMatch permanent "^/actualites/2007\-08\-10\-remue\-mnage(/?)$" "/articles/2007-08-10-remue-mnage/"
 RedirectMatch permanent "^/actualites/2022\-07\-20\-in\-jazz\-news\-de\-juillet\-aot(/?)$" "/articles/2022-07-20-in-jazz-news-de-juillet-aot/"
 RedirectMatch permanent "^/actualites/2007\-12\-08\-karlheinz\-stockhausen\-ne\-fera\-plus\-de\-bruit(/?)$" "/articles/2007-12-08-karlheinz-stockhausen-ne-fera-plus-de-bruit/"
