@@ -5406,6 +5406,7 @@ RedirectMatch permanent "^/actualites/2017\-05\-11\-bientt\-est\-dj\-l(/?)$" "/a
 RedirectMatch permanent "^/actualites/2014\-08\-28\-le\-denier\-du\-culte(/?)$" "/articles/2014-08-28-le-denier-du-culte/"
 RedirectMatch permanent "^/actualites/2018\-12\-29\-souvenir\-de\-jacques\-monory(/?)$" "/articles/2018-12-29-souvenir-de-jacques-monory/"
 RedirectMatch permanent "^/actualites/2017\-11\-06\-podcast\-de\-notre\-tapage\-nocturne(/?)$" "/articles/2017-11-06-podcast-de-notre-tapage-nocturne/"
+RedirectMatch permanent "^/articles/2026\-09\-10\-fabiana\-striffler\-matche\-avec\-karsten\-hochapfel(/?)$" "/articles/2026-10-15-fabiana-striffler-matche-avec-karsten-hochapfel/"
 RedirectMatch permanent "^/actualites/2008\-08\-29\-remember\-my\-forgotten\-man(/?)$" "/articles/2008-08-29-remember-my-forgotten-man/"
 RedirectMatch permanent "^/actualites/2007\-12\-06\-un\-clou\-ne\-chasse\-pas\-lautre(/?)$" "/articles/2007-12-06-un-clou-ne-chasse-pas-lautre/"
 RedirectMatch permanent "^/actualites/2021\-04\-28\-lamazone\-verte\-le\-roman\-de\-franoise\-deaubonne(/?)$" "/articles/2021-04-28-lamazone-verte-le-roman-de-franoise-deaubonne/"
